@@ -1,14 +1,19 @@
-# Visual Studio
-.vs/
-
 # Python
 venv/
 __pycache__/
 *.pyc
 
-# Node / frontend
+# Node
 node_modules/
 dist/
 
-# Environment files
+# Env
 .env
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
